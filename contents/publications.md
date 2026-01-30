@@ -51,5 +51,3 @@
 - <strong>Diviacco P.</strong>	Integrated tools to enhance collaborative work and data handling in geosciences	2005	67th European Association of Geoscientists and Engineers, EAGE Conference and Exhibition, incorporating SPE EUROPE2005 - Extended Abstracts	67th European Association of Geoscientists and Engineers Conference and Exhibition 2005: The Challenge of Discovery. Incorporating SPE EUROPEC 2005			1275	1279	4			
 - Wardell N.; <strong>Diviacco P.</strong>	Reprocessing and dissemination of Antarctic seismic data	2003	Terra Antartica Reports		9 SPEC. ISS.		133	136	3			
 - Wardell N.; <strong>Diviacco P.</strong>; Sinceri R.		3D pre-processing techniques for marine VHR seismic data	2002	First Break	20	7		457	466	9	[[Paper]](https://doi.org/10.1046/j.1365-2397.2002.00291.x)	
-
-   <img width="8192" height="769" alt="image" src="https://github.com/user-attachments/assets/ceffe819-3394-4db9-9d0a-62230f4af09c" />
